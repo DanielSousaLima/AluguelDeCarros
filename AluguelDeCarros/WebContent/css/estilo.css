@@ -1,0 +1,68 @@
+@CHARSET "ISO-8859-1";
+
+ boby{
+	background-color: #909090;
+}
+
+.login {
+	background-image: url("../imagens/carros.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.carro1{
+	background-image: url("../imagens/carros2.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	 
+}
+.cadCarro{
+	background-color: #c0c0c0;
+}
+.marca{
+	background-image: url("../imagens/marcas.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	color: white;
+}
+.cadCarro2{
+	background-image: url("../imagens/land.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	color: #0000ff;
+}
+.cliente{
+	background-image: url("../imagens/cliente.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	color: #0000ff;
+}
+.modelo{
+	background-image: url("../imagens/modelocarro2.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	color: white;
+}
+
+.aluguel{
+	background-image: url("../imagens/aluguel2.jpg");
+	background-repeat: repeat-x;
+	background-position: inherit;
+	background-color: black;
+	color: blue;
+}
+
+.comenta{
+	background-color: #c0c0c0;
+	color: black;
+}
+.pesquisa{
+	background-color: black;
+	color: white;
+}
+
